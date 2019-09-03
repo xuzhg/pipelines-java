@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ODataRed/EdmUtils/_apis/build/status/xuzhg.pipelines-java?branchName=master)](https://dev.azure.com/ODataRed/EdmUtils/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
